@@ -3,7 +3,7 @@ export default defineAppConfig({
       button: {
         color: {
             white: {
-              outline: 'text-white ring-1 ring-inset ring-current'
+              outline: 'ring-1 ring-inset ring-current text-white hover:bg-white hover:text-slate-900'
             }
         }
       }
